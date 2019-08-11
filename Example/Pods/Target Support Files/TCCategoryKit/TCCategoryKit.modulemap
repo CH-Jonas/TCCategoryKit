@@ -1,0 +1,6 @@
+framework module TCCategoryKit {
+  umbrella header "TCCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

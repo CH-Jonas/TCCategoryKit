@@ -1,0 +1,22 @@
+{
+  "name": "TCCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of TCCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CH-Jonas/TCCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CH-Jonas": "353283899@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/CH-Jonas/TCCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TCCategoryKit/Classes/**/*"
+}
